@@ -1,3 +1,6 @@
+__author__ = "Michał Kowalczuk"
+__copyright__ = "Copyright 2013, Michał Kowalczuk"
+
 import arcpy
 import os
 import sys
