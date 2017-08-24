@@ -45,4 +45,3 @@ In IsoNoise Python Toolbox there are 3 tools:
 Using other interpolation tools you can prepare maps with noise level areas like below:
 
 ![results-map](https://user-images.githubusercontent.com/23641410/29657974-9facd5f8-88b9-11e7-8b91-74be8a7b0e88.PNG)
-
